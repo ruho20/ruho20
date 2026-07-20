@@ -15,15 +15,12 @@ Welcome to my GitHub profile! I'm passionate about building robust applications,
 - **Tools**: phpMyAdmin, Git, GitHub, Xdebug
 
 ### Frontend Development
-- **Frameworks & Libraries**: Vue.js, React
-- **Tools & Libraries**: Inertia.js, Tailwind CSS, Bootstrap 4
-- **Styling**: CSS, Tailwind CSS
+- **Frameworks & Libraries**: Vue.js, React, Inertia.js, Tailwind CSS, Bootstrap 4
 
 ### DevOps & Tools
 - **Containerization**: Docker, Dev Containers
 - **Version Control**: Git, GitHub
 - **Environment**: Linux, WSL
-- **Debugging**: Xdebug
 
 ---
 
