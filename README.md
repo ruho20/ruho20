@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about building robust applications,
 
 - 🔌 **API Development** - Designing and building scalable REST APIs
 - 🔗 **System Integration** - Connecting disparate systems seamlessly
-- 🖥️ **Virtualization** - Working with containerized environments and cloud solutions
+- 🖥️ **Virtualization** - Working with containerized environments
 
 ---
 
@@ -42,16 +42,3 @@ Welcome to my GitHub profile! I'm passionate about building robust applications,
 - **Email**: Feel free to reach out via LinkedIn
 
 ---
-
-## 📊 What You'll Find Here
-
-Repositories showcasing my work in:
-- Full-stack web applications with Laravel & Vue.js
-- Backend systems with ASP.NET & C#
-- API development and system integrations
-- Frontend applications with React
-- DevOps and containerization projects
-
----
-
-**Always learning, always building. Let's create something amazing together! 🚀**
