@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Ruben Hoekema
 
-**Software Engineering Student** | Full-Stack Developer | Tech Enthusiast
+**Software Engineering Student**
 
 Welcome to my GitHub profile! I'm passionate about building robust applications, integrating systems, and exploring modern development technologies. Currently studying Software Engineering while continuously expanding my skillset in both frontend and backend development.
 
