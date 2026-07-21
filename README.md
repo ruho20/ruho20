@@ -2,7 +2,7 @@
 
 **Software Engineering Student**
 
-Welcome to my GitHub profile! I'm passionate about building robust applications, integrating systems, and exploring modern development technologies. Currently studying Software Engineering while co[...]
+Welcome to my GitHub profile! I'm passionate about building robust applications, and exploring modern development technologies. Currently studying Software Engineering.
 
 ---
 
