@@ -8,21 +8,7 @@ Welcome to my GitHub profile! I'm passionate about building robust applications,
 
 ## 💻 Technical Skills
 
-### Backend Development
-- **Languages**: PHP, C#, C++, JavaScript
-- **Frameworks**: Laravel, ASP.NET
-- **Databases**: MariaDB, SQL
-- **Tools**: phpMyAdmin, Git, GitHub, Xdebug
 
-### Frontend Development
-- **Frameworks & Libraries**: Vue.js, React, Inertia.js, Tailwind CSS, Bootstrap 4
-
-### DevOps & Tools
-- **Containerization**: Docker, Dev Containers
-- **Version Control**: Git, GitHub
-- **Environment**: Linux, WSL
-
----
 
 ## 🎯 Interests & Focus Areas
 
